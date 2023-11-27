@@ -1,5 +1,12 @@
-function mensaje(){
-    console.log(hola);
+let n1 = 5;
+let n2 = 50;
+let n3 = 60;
+if (n1 > n2 && n1 < n3)
+{console.log (n1)
 }
-mensaje();
-mensaje();
+ else if (n2 > n3 && n2 > n3)
+{console.log (n2)}
+else{
+    console.log(n3)
+
+}
